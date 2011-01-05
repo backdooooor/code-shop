@@ -1,0 +1,20 @@
+E:\dev\svn\trunk\code-shop\code-shop\code-shop\obj\Debug\ResolveAssemblyReference.cache
+E:\dev\svn\trunk\code-shop\code-shop\code-shop\bin\code-shop.dll
+E:\dev\svn\trunk\code-shop\code-shop\code-shop\bin\code-shop.pdb
+E:\dev\svn\trunk\code-shop\code-shop\code-shop\obj\Debug\code-shop.dll
+E:\dev\svn\trunk\code-shop\code-shop\code-shop\obj\Debug\code-shop.pdb
+D:\my\Учеба\Современные технологии разраб-ки распред-ых приложений\проект\svn\trunk\code-shop\code-shop\code-shop\bin\code-shop.dll
+D:\my\Учеба\Современные технологии разраб-ки распред-ых приложений\проект\svn\trunk\code-shop\code-shop\code-shop\bin\code-shop.pdb
+D:\my\Учеба\Современные технологии разраб-ки распред-ых приложений\проект\svn\trunk\code-shop\code-shop\code-shop\obj\Debug\ResolveAssemblyReference.cache
+D:\my\Учеба\Современные технологии разраб-ки распред-ых приложений\проект\svn\trunk\code-shop\code-shop\code-shop\obj\Debug\code-shop.dll
+D:\my\Учеба\Современные технологии разраб-ки распред-ых приложений\проект\svn\trunk\code-shop\code-shop\code-shop\obj\Debug\code-shop.pdb
+F:\code-shop\code-shop\bin\code-shop.dll
+F:\code-shop\code-shop\bin\code-shop.pdb
+F:\code-shop\code-shop\obj\Debug\ResolveAssemblyReference.cache
+F:\code-shop\code-shop\obj\Debug\code-shop.dll
+F:\code-shop\code-shop\obj\Debug\code-shop.pdb
+H:\code-shop\code-shop\bin\code-shop.dll
+H:\code-shop\code-shop\bin\code-shop.pdb
+H:\code-shop\code-shop\obj\Debug\ResolveAssemblyReference.cache
+H:\code-shop\code-shop\obj\Debug\code-shop.dll
+H:\code-shop\code-shop\obj\Debug\code-shop.pdb
