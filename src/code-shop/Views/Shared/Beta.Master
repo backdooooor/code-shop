@@ -1,0 +1,80 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Beta.master.cs" Inherits="code_shop.Views.Shared.Beta" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>code-shop Интернет Магазин будущего ....</title>
+<meta http-equiv="Content-Type" content="text/html; charset=cp1251" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<link href="../../Content/Beta.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="../../Scripts/jquery-1.4.1.min.js"></script>
+<script type="text/javascript" src="../../Scripts/baze.js"></script>
+<!--[if lt IE 7]>
+	<link href="../../Content/IE.css" rel="stylesheet" type="text/css" />
+   <script type="text/javascript" src="../../Scripts/ie_png.js"></script>
+   <script type="text/javascript">
+       ie_png.fix('.png');
+   </script>
+<![endif]-->
+</head>
+
+<body id="page1">
+  <div id="main">
+    <!-- header -->
+    <div id="header">
+      <!-- .logo -->
+      <div >
+      	<a href="" class="logo"></a>
+      </div>
+      <!-- /.logo -->
+    </div>
+    <!-- content -->
+    <div id="content">
+    	<!-- .nav -->
+    	<ul class="nav">
+        
+      	<li class="about-item"><h2><a  href="#" onclick="doAbout();return false;">Информация</a></h2></li>
+        <li class="gallery-item"><h2 ><a href="#" onclick="doCatalog();return false;">Каталог</a></h2></li>
+        <li class="contacts-item"><h2 ><a href="#"  onclick="doAuth();return false;">Авторизация</a></h2></li>
+        <li class="add-item" style="display:none;"><h2><a  href="/User/additem" >Добавить товар</a></h2></li>
+        <li class="edit-profile" style="display:none;"><h2><a  href="#"  onclick="doShowContact();">Редактирование</a></h2></li>
+      </ul>
+    	<!-- /.nav -->
+    </div>
+        <div class="box">
+      	<div class="close"><a href="#" onclick="doClose();return false;">X</a></div>
+        <div class="inner">
+        	<div class="section">
+            <h2>ABOUT</h2>
+            <div class="inner">
+              
+              	
+                <div class="block">
+                	<p>Идейный вдохновитель <br />
+                     Артем <a href='http://twitter.com/backd000r'>@backdoor</a> Татаринов<br />
+                     Любимая цитата "Если тебе плюют в спину,значит ты впереди<br />
+                     Программист Ястребов Вадим<br />
+                     Программист Расулов Джавид</p>
+              
+              </div>
+            </div>
+          
+          </div>
+         
+         
+        </div>
+      </div>
+    <div id="item">
+    
+    </div>
+    <div id="profile">
+  
+    </div>
+    <!-- footer -->
+    <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+    <div id="footer">
+    	Copyright &copy; Code-Shop 2.0  Интернет-Магазин будущего.
+    </div>
+  </div>
+</body>
+</html>
